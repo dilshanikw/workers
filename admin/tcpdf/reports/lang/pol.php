@@ -1,12 +1,12 @@
 <?php
 //============================================================+
-// File name   : afr.php
+// File name   : pol.php
 // Begin       : 2010-10-26
 // Last Update : 2010-10-26
 //
 // Description : Language module for TCPDF
 //               (contains translated texts)
-//               Afrikaans
+//               Polish
 //
 // Author: Nicola Asuni
 //
@@ -20,12 +20,12 @@
 /**
  * TCPDF language file (contains translated texts).
  * @package com.tecnick.tcpdf
- * @brief TCPDF language file: Afrikaans
+ * @brief TCPDF language file: Polish
  * @author Nicola Asuni
  * @since 2010-10-26
  */
 
-// Afrikaans
+// Polish
 
 global $l;
 $l = Array();
@@ -34,10 +34,10 @@ $l = Array();
 
 $l['a_meta_charset'] = 'UTF-8';
 $l['a_meta_dir'] = 'ltr';
-$l['a_meta_language'] = 'af';
+$l['a_meta_language'] = 'pl';
 
 // TRANSLATIONS --------------------------------------
-$l['w_page'] = 'bladsy';
+$l['w_page'] = 'strona';
 
 //============================================================+
 // END OF FILE

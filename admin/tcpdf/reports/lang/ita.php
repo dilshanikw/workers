@@ -1,12 +1,12 @@
 <?php
 //============================================================+
-// File name   : afr.php
-// Begin       : 2010-10-26
+// File name   : ita.php
+// Begin       : 2004-03-03
 // Last Update : 2010-10-26
 //
 // Description : Language module for TCPDF
 //               (contains translated texts)
-//               Afrikaans
+//               Italian
 //
 // Author: Nicola Asuni
 //
@@ -20,12 +20,12 @@
 /**
  * TCPDF language file (contains translated texts).
  * @package com.tecnick.tcpdf
- * @brief TCPDF language file: Afrikaans
+ * @brief TCPDF language file: Italian
  * @author Nicola Asuni
- * @since 2010-10-26
+ * @since 2004-03-03
  */
 
-// Afrikaans
+// Italian
 
 global $l;
 $l = Array();
@@ -34,10 +34,10 @@ $l = Array();
 
 $l['a_meta_charset'] = 'UTF-8';
 $l['a_meta_dir'] = 'ltr';
-$l['a_meta_language'] = 'af';
+$l['a_meta_language'] = 'it';
 
 // TRANSLATIONS --------------------------------------
-$l['w_page'] = 'bladsy';
+$l['w_page'] = 'pagina';
 
 //============================================================+
 // END OF FILE

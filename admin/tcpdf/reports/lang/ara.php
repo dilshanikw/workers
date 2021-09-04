@@ -1,12 +1,12 @@
 <?php
 //============================================================+
-// File name   : afr.php
+// File name   : ara.php
 // Begin       : 2010-10-26
 // Last Update : 2010-10-26
 //
 // Description : Language module for TCPDF
 //               (contains translated texts)
-//               Afrikaans
+//               Arabic
 //
 // Author: Nicola Asuni
 //
@@ -20,12 +20,12 @@
 /**
  * TCPDF language file (contains translated texts).
  * @package com.tecnick.tcpdf
- * @brief TCPDF language file: Afrikaans
+ * @brief TCPDF language file: Arabic
  * @author Nicola Asuni
  * @since 2010-10-26
  */
 
-// Afrikaans
+// Arabic
 
 global $l;
 $l = Array();
@@ -33,11 +33,11 @@ $l = Array();
 // PAGE META DESCRIPTORS --------------------------------------
 
 $l['a_meta_charset'] = 'UTF-8';
-$l['a_meta_dir'] = 'ltr';
-$l['a_meta_language'] = 'af';
+$l['a_meta_dir'] = 'rtl';
+$l['a_meta_language'] = 'ar';
 
 // TRANSLATIONS --------------------------------------
-$l['w_page'] = 'bladsy';
+$l['w_page'] = 'صفحة';
 
 //============================================================+
 // END OF FILE
