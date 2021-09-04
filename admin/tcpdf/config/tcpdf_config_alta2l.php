@@ -89,12 +89,12 @@ define ('K_BLANK_IMAGE', '_blank.png');
 /**
  * Page format.
  */
-define ('PDF_PAGE_FORMAT', 'A4');
+define ('PDF_PAGE_FORMAT', 'A2');
 
 /**
  * Page orientation (P=portrait, L=landscape).
  */
-define ('PDF_PAGE_ORIENTATION', 'P');
+define ('PDF_PAGE_ORIENTATION', 'L');
 
 /**
  * Document creator.
